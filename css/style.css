@@ -558,9 +558,9 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .portfolio-grid .desc h3 {
-  color: #fff;
+  color: #000;
   margin-bottom: 10px;
-  font-weight: 400;
+  font-weight: 350;
 }
 .portfolio-grid .desc span {
   color: rgba(255, 255, 255, 0.8);
@@ -1197,7 +1197,7 @@ input[type="text"] {
 
 .image-item {
   margin-bottom: 30px;
-  float: left;
+  float: right;
   width: 100%;
 }
 
@@ -1212,6 +1212,10 @@ input[type="text"] {
   float: left;
   width: 50%;
   margin-left: 110px;
+}
+
+#cartaindex{
+	float: right;
 }
 
 #sticky_item {
